@@ -33,7 +33,7 @@ Regime = "ENAQT optimal"
 
 ## **Is This Realistic?**
 
-### **YES! This is a Champion Composition!** ⭐
+### **YES! This is a Champion Composition!** 
 ```
 Real-World Context:
 ├─ FA-Cs mixed cations are used in record cells
@@ -72,7 +72,7 @@ For bigger ENAQT boost, need:
 
 | Material | Why Selected? | Expected ENAQT |
 |----------|---------------|----------------|
-| **FA₀.₉Cs₀.₁PbI₃** | ✅ **Highest score (18.4 ratio)** | **+7.6% (confirmed!)** |
+| **FA₀.₉Cs₀.₁PbI₃** | **Highest score (18.4 ratio)** | **+7.6% (confirmed!)** |
 | MAPbI₃ | Standard reference | Lower (higher disorder) |
 | 2D-RP-n2 | High disorder | Potentially higher enhancement |
 | CsPbBr₃ | High disorder | Potentially higher enhancement |
